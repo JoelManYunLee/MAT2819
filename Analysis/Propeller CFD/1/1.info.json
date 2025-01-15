@@ -1,0 +1,55 @@
+{
+    "version": 0,
+    "model_name": "Propeller 10x4.5.SLDPRT",
+    "project_name": "Propeller CFD",
+    "config_name": "Default",
+    "project_path": "C:\\Users\\makis\\OneDrive\\Documents\\GitHub\\MAT2819\\Analysis\\Propeller CFD\\1\\1.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 41339,
+        "cells_fluid": 41339,
+        "cells_solid": 1433,
+        "cells_fluid_containing_solid": 1593
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "15:42:18-0500",
+        "prepare_geometry_total_time": 3,
+        "cpu_time_solver_total": 59,
+        "iteration": 76,
+        "travel": 1.0989981024857889,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "15:43:11-0500",
+        "cpu_time_per_last_iter": 1,
+        "cpu_time_left": 10,
+        "iterations_per_travel": 70
+    },
+    "goals": [],
+    "settings": {
+        "default_fluids": [
+            "Air"
+        ],
+        "analysis_type": "external",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": false,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2024  x64 / 6320 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2024 SP2.0",
+        "computer_name": "Z16",
+        "user_name": "makis",
+        "os": "Windows 11 (or higher) (Version 10.0.22631)",
+        "cpu": "AMD Ryzen 7 PRO 6850H with Radeon Graphics     ",
+        "number_of_cores": 16,
+        "memory_avail": 1042,
+        "memory_total": 15636
+    }
+}

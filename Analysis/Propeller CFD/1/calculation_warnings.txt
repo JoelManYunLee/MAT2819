@@ -1,0 +1,7 @@
+2025-Jan-15 15:43:12
+Computer name:	Z16
+Number of cores used in calculation:	16
+Configuration name:	Default
+Project name:	Propeller CFD
+
+Warnings on last iteration: 
